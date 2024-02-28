@@ -108,4 +108,3 @@ Este guia fornece um passo a passo para configurar um espaço de trabalho no Azu
    ```
 
 Agora seu modelo está implantado e pronto para prever o número de aluguéis de bicicletas com base nos dados de entrada fornecidos.
-```
