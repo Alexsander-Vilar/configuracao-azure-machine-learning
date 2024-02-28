@@ -1,7 +1,5 @@
-Certamente! Vou fazer algumas correções e melhorias no README que você forneceu:
 
-```markdown
-# README: Configuração do Azure Machine Learning para Previsão de Aluguel de Bicicletas
+# Configuração do Azure Machine Learning para Previsão de Aluguel de Bicicletas
 
 Este guia fornece um passo a passo para configurar um espaço de trabalho no Azure Machine Learning e treinar um modelo automatizado para prever o aluguel de bicicletas. Após o treinamento, o melhor modelo será implantado como um serviço web para previsão em tempo real.
 
